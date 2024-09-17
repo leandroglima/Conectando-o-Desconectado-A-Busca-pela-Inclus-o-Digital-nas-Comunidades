@@ -20,7 +20,7 @@ body {
 
 /* Estiliza os títulos h1 */
 h1 {
-    font-size: 2rem; /* Tamanho da fonte */
+    font-size: 1.5rem; /* Tamanho da fonte */
     color: #222831; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
@@ -84,7 +84,7 @@ section button:hover {
 
 /* Estiliza os títulos dentro dos itens de resultado */
 .item-resultado h2 {
-    font-size: 1.5rem; /* Tamanho da fonte */
+    font-size: 1.0rem; /* Tamanho da fonte */
     color: #222831; /* Cor do texto */
 }
 
